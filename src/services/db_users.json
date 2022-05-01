@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "login": "usxxcxddder10d",
+            "id": "7e1b1fce-43e5-454c-a5ae-cfc8d4a39122",
+            "password": "$2b$10$.O4FPfLoxdnrf8Zq/FcoRe8HwNW89U2Fm4gaUuXeZZt5mC3fblvDW"
+        },
+        {
+            "login": "dsf",
+            "id": "15786e83-0ea4-4f71-9a97-3830b26acad4",
+            "password": "$2b$10$.O4FPfLoxdnrf8Zq/FcoReRhCJPjRcXOLTtB2s2pqZYCcHjbPRzDq"
+        },
+        {
+            "login": "usxxcxdddesr10d",
+            "id": "8f4a0eed-1e67-49fb-b783-8a714f706a55",
+            "password": "$2b$10$.O4FPfLoxdnrf8Zq/FcoRe8HwNW89U2Fm4gaUuXeZZt5mC3fblvDW"
+        },
+        {
+            "login": "usxxcxdыddesr10d",
+            "id": "52d3aca9-a93c-406e-9eea-4d54b0d9ce63",
+            "password": "$2b$10$.O4FPfLoxdnrf8Zq/FcoRe8HwNW89U2Fm4gaUuXeZZt5mC3fblvDW"
+        }
+    ]
+}
